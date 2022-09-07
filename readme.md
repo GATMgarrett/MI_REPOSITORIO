@@ -6,4 +6,6 @@
 6. git log
 7. git checkout -- .
 8. git branch <nombre-de-la-rama>
-9. git branch --list
+9. git merge nueva_rama
+10. git branch --list
+11. git branch -d nueva_rama
